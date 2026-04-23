@@ -1,8 +1,9 @@
 # pengenalan python
 - bahasa pemrograman multifungsi
+- bahasa pemrograman tingkat tinggi
 - dirilis tahun 1991
-- dirilis oleh Guido van Rossum (GvR)
-- bahasa yang dibuat mudah dibaca dan dimengerti (readable)
+- dibuat oleh Guido van Rossum (GvR)
+- terkenal karena sintaksnya sederhana dan mudah dimengerti (readable)
 - memiliki kemampuan penanganan kesalahan (exception handling)
 - python tidak mewajibkan penggunaan titik koma atau semi colon (;) pada setiap akhir kode programnya
 contoh :
@@ -15,6 +16,13 @@ print("Hello World!")
 - python versi 3 dirilis pada desember 2008
 - versi 3 bersifat backward-compatible (beberapa sintaks yang sebelumnya berjalan di versi 2, tidak lagi bisa digunakan)
 - python memiliki prinsip readable, consistent, & explicit
+
+## karakteristik python
+- mudah dipelajari karena sintaksnya bersih dan sederhana
+- interpreted language (tidak perlu dikompilasi terlebih dahulu)
+- cross-platform (berjalan di windows, mac dan linux)
+- open source, gratis dan bebas digunakan
+- versatile -> bisa digunakan untuk berbagai keperluan
 
 ## python overview
 - Python Software Foundation (PSF) -> lembaga non-komersial yang mengabdikan diri untuk menciptakan kondisi python dan komunitas python agar dapat tumbuh dan berkembang.
